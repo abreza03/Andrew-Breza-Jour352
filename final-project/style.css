@@ -1,0 +1,15 @@
+img {
+    width:100%;
+}
+
+#topper{
+    background-color: aqua;
+}
+
+h1{
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.caption{
+    font-size: 10px;
+}
